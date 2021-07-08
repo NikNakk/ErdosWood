@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/ErdosWood/v16
+Debug
+Release
+packages
+x64
+ErdosWood/Debug
+ErdosWood/Release
+ErdosWood/x64
